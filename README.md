@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arubiku&show_icons=true&locale=en" alt="arubiku" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arubiku&" alt="arubiku" /></p>
+
+<figure><embed src="https://wakatime.com/share/@Arubik/33048eed-579a-4175-81da-3c55eb436635.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@Arubik/87ee655a-e38f-4811-b0e5-24154be74658.svg"></embed></figure>
