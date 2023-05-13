@@ -1,3 +1,5 @@
+<a href="https://wakatime.com/@dfc54163-85fd-4ee0-b1c8-b15bb48710db"><img src="https://wakatime.com/badge/user/dfc54163-85fd-4ee0-b1c8-b15bb48710db.svg" alt="Total time coded since Sep 27 2022" /></a>
+
 <h1 align="center">Hi 👋, I'm ArubikU</h1>
 <h3 align="center">I am a person quite interested in learning more about programming and see a bright future not only for the world and technology but for me and my loved ones.</h3>
 
