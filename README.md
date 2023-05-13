@@ -27,6 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arubiku&" alt="arubiku" /></p>
 
-<figure><embed src="https://wakatime.com/share/@Arubik/33048eed-579a-4175-81da-3c55eb436635.svg"></embed></figure>
+<p><img align="center" src="https://wakatime.com/share/@Arubik/33048eed-579a-4175-81da-3c55eb436635.svg"/></p>
 
-<figure><embed src="https://wakatime.com/share/@Arubik/87ee655a-e38f-4811-b0e5-24154be74658.svg"></embed></figure>
+<p><img align="center" src="https://wakatime.com/share/@Arubik/87ee655a-e38f-4811-b0e5-24154be74658.svg"/></p>
