@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://wakatime.com/share/@Arubik/33048eed-579a-4175-81da-3c55eb436635.svg"/></p>
 
-<p><img align="center" src="https://wakatime.com/share/@Arubik/87ee655a-e38f-4811-b0e5-24154be74658.svg"/></p>
+<p><img align="center" src="https://wakatime.com/share/@Arubik/0567c9e4-944b-4b4f-88e1-8c62389ebc38.png"/></p>
