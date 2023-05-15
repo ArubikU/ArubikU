@@ -29,3 +29,5 @@
 <p><img align="center" src="https://wakatime.com/share/@Arubik/33048eed-579a-4175-81da-3c55eb436635.svg"/></p>
 
 <p><img align="center" src="https://wakatime.com/share/@Arubik/0567c9e4-944b-4b4f-88e1-8c62389ebc38.png"/></p>
+
+<iframe src="https://discord.com/widget?id=993516904260042832&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
