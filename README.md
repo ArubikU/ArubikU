@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm ArubikU</h1>
 <h3 align="center">I am a person quite interested in learning more about programming and see a bright future not only for the world and technology but for me and my loved ones.</h3>
 
-- 🔭 I’m currently working on [Runecraft MC Server](https://discord.gg/fuebDVDBGw)
-
 - 🌱 I’m currently learning **AI and some of front end techs**
 
 - 📄 Know about my experiences [Im dev of IACroper (Discontinued) i dont work in much open source proyects actually](Im dev of IACroper (Discontinued) i dont work in much open source proyects actually)
